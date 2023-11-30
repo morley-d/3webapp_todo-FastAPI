@@ -3,7 +3,7 @@ import os.path
 from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
 
-from config import settings
+from todo.config import settings
 
 BASE_DIR = os.path.dirname(os.path.abspath(__name__))
 db_path = os.path.join(BASE_DIR, 'todo', 'database', 'db')
