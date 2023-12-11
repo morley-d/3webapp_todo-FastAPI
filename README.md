@@ -1,4 +1,4 @@
-# 3 webapp_todo на FastAPI (by Михаил Терехов)
+# three web applications: FastAPI (by Михаил Терехов)
 
 Простой ToDo менеджер, реализованный на веб-фреймворке FastAPI В качестве веб-интерфейса использован фреймворк Semantic
 UI https://semantic-ui.com/
